@@ -1,7 +1,7 @@
 #  Jupyter Notebooks: Facial Expression Recognition
 
 This project contains the Jupyter Notebooks that where used to learn the basics of Deep Neural Networks (DNNs) and become familiar with Facial Expression Recognition (FER) Tasks.  
-The [AffectNet database](http://mohammadmahoor.com/affectnet/ "AffecNet")[^affecnet] was used as dataset for training and evaluation of the models.
+The [AffectNet database](http://mohammadmahoor.com/affectnet/ "AffecNet")[^affectnet] was used as dataset for training and evaluation of the models.
 
 ## Setup
 
